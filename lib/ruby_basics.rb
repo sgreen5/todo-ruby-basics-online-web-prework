@@ -24,6 +24,8 @@ def return_a_value
 end
 
 def last_evaluated_value
+  value = "expert"
+  puts value
 
 end
 
