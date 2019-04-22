@@ -9,7 +9,7 @@ def assign_variable(value)
 end
 
 def argue
-  
+  puts 
 end
 
 def greeting
