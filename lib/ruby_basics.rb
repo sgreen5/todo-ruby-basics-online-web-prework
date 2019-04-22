@@ -12,8 +12,8 @@ def argue
   puts "I'm mad!"
 end
 
-def greeting
-  puts "Hello world!"
+def greeting(greeting, name)
+  puts "Hello John!"
 
 end
 
