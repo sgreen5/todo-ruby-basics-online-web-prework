@@ -1,10 +1,10 @@
 def division(num1, num2)
- puts 2 / 12
+ puts 42 / 7
  
 end
 
 def assign_variable(value)
-  puts Bob
+  puts "Bob"
   
 end
 
@@ -29,6 +29,6 @@ def last_evaluated_value
 
 end
 
-def pizza_party
+def pizza_party(pizza, "cheese")
 
 end
