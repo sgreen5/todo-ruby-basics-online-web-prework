@@ -9,10 +9,11 @@ def assign_variable(value)
 end
 
 def argue
-  puts 
+  puts "I'm mad!"
 end
 
 def greeting
+  puts "Hello world!"
 
 end
 
